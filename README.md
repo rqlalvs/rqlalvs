@@ -16,8 +16,8 @@
 <br>
 <div>
   <a href="https://github.com/rqlalvs">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rqlalvs&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rqlalvs&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=rqlalvs&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rqlalvs&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 <br>
 <a href="https://www.linkedin.com/in/raquel-alves-86112b211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
