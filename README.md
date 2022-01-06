@@ -1,6 +1,6 @@
-### Oi! Me chamo Raquel :wave: :four_leaf_clover:
+### Oi, me chamo Raquel! :wave: :four_leaf_clover:
 
-<br>Atualmente estou trabalhando na RedeOK como Analista Desenvolvedora Jr. Amante de C#.
+<br>Atualmente estou trabalhando na RedeOK como Analista Desenvolvedora Jr. Amante de C#. Sempre buscando aprender mais.
 <div style="display: inline_block"><br>
   <img align="center" alt="Raquel-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="center" alt="Raquel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -9,9 +9,8 @@
   <img align="center" alt="Raquel-oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Raquel-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Raquel-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-plain.svg">
-    <img align="center" alt="Raquel-VST" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Raquel-VSC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
   <img align="center" alt="Raquel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"> 
+  <img align="center" alt="Raquel-kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
 </div>
 <br>
 <div>
