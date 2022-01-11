@@ -1,6 +1,13 @@
-### Oi, me chamo Raquel! :wave: :four_leaf_clover:
+### :sparkles: Oi, me chamo Raquel! :sparkles:
 
-<br>Atualmente estou trabalhando na RedeOK como Analista Desenvolvedora Jr. Amante de C#. Sempre buscando aprender mais.
+<br>Atualmente trabalhando na RedeOK como Analista Desenvolvedora Jr. Amante de C#. Sempre buscando aprender mais.
+<br>
+<div>
+  <a href="https://github.com/rqlalvs">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=rqlalvs&count_private=true&show_icons=true&theme=omni&include_all_commits=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rqlalvs&layout=compact&theme=omni"/>
+</div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Raquel-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="center" alt="Raquel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,13 +27,11 @@
 </div>
 
 </div>
-<br>
-<div>
-  <a href="https://github.com/rqlalvs">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=rqlalvs&count_private=true&show_icons=true&theme=omni&include_all_commits=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rqlalvs&layout=compact&theme=omni"/>
-</div>
-<br>
+
+<br> 
+
+### Onde me encontrar: :mailbox_with_mail: :earth_americas:
+
 <a href = "mailto:0709.raquelalves3753@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/raquel-alves-86112b211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
