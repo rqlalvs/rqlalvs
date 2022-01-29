@@ -22,7 +22,6 @@
   <img align="center" alt="Raquel-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg">
   <img align="center" alt="Raquel-Microsoft SQL Server" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Raquel-Oracle DB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Raquel-PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
   
 </div>
 
