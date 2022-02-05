@@ -4,8 +4,8 @@
 <br>
 <div>
   <a href="https://github.com/rqlalvs">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=rqlalvs&count_private=true&show_icons=true&theme=omni&include_all_commits=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rqlalvs&layout=compact&theme=omni"/>
+  ![](https://raw.githubusercontent.com/rqlalvs/github-stats-transparent/output/generated/overview.svg)
+  ![](https://raw.githubusercontent.com/rqlalvs/github-stats-transparent/output/generated/languages.svg)
 </div>
   
 <div style="display: inline_block"><br>
