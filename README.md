@@ -3,9 +3,12 @@
 <br>Atualmente trabalhando na RedeOK como Analista Desenvolvedora Jr. Amante de C#. Sempre buscando aprender mais.
 <br>
 <div>
-  <a href="https://github.com/rqlalvs">
+  <a href="<a href="https://github.com/rqlalvs/github-stats-transparent">">
+    
   ![](https://raw.githubusercontent.com/rqlalvs/github-stats-transparent/output/generated/overview.svg)
   ![](https://raw.githubusercontent.com/rqlalvs/github-stats-transparent/output/generated/languages.svg)
+    
+   </a>
 </div>
   
 <div style="display: inline_block"><br>
