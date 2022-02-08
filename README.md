@@ -29,7 +29,7 @@
 </div>
 
 <div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rqlalvs&theme=dark)](https://git.io/streak-stats)
+
 </div>
 
 </div>
