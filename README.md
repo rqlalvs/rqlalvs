@@ -3,13 +3,14 @@
 <br>Atualmente trabalhando na RedeOK como Analista Desenvolvedora Jr. Amante de C#. Sempre buscando aprender mais.
 <br>
 <div>
-  <a href="<a href="https://github.com/rqlalvs/github-stats-transparent">
+  <a href="<a href="https://github.com/rqlalvs/github-stats-transparent"> 
     
   ![](https://raw.githubusercontent.com/rqlalvs/github-stats-transparent/output/generated/overview.svg)
   ![](https://raw.githubusercontent.com/rqlalvs/github-stats-transparent/output/generated/languages.svg)
     
    </a>
 </div>
+                                                                        
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Raquel-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
