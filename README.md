@@ -1,6 +1,6 @@
 ### :sparkles: Oi, me chamo Raquel! :sparkles:
 
-<br>Atualmente trabalhando na SONDA como Desenvolvedora de Software II. Sempre buscando aprender mais.
+<br>Atualmente trabalhando na SONDA como Desenvolvedora de Software II e cursando Análise e Desenvolvimento de Sistemas na FIAP. Sempre buscando aprender mais :).
 <br>
 <div>
   <a href="<a href="https://github.com/rqlalvs/github-stats-transparent"> 
