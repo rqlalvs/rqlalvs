@@ -28,16 +28,6 @@
   ![](https://raw.githubusercontent.com/rqlalvs/github-stats-transparent/output/generated/languages.svg)
     
    </a>
-</div>
-                                                                        
-
-<div>
-
-</div>
-
-</div>
-
-<br> 
 
 ### Onde me encontrar: :mailbox_with_mail: :earth_americas:
 
