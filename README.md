@@ -3,7 +3,7 @@
   <br>
   <strong>:sparkles: Hi! My name is Raquel :sparkles:</strong>
 
-  <br>Currently working at SONDA as a Software Developer II and graduated in Systems Analysis and Development at FIAP. Always seeking to learn more :)
+  <br>Currently working at Mercado Livre as a Software Developer and graduated in Systems Analysis and Development at FIAP. :)
   <br>
   <br>You can find all my projects organized in the tab 'Stars'!
   <br>
@@ -17,7 +17,7 @@
 <br>
 <strong>:sparkles: Oi, me chamo Raquel! :sparkles:</strong>
 
-<br>Atualmente trabalhando na SONDA como Desenvolvedora de Software II e formada em Análise e Desenvolvimento de Sistemas na FIAP. Sempre buscando aprender mais :)
+<br>Atualmente trabalhando no Mercado Livre como Desenvolvedora de Software e formada em Análise e Desenvolvimento de Sistemas na FIAP. :)
 <br>
 <br>Todos os projetos organizados na aba 'Stars'
 <br>
