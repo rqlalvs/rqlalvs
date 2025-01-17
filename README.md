@@ -22,12 +22,6 @@
 <br>Todos os projetos organizados na aba 'Stars'
 <br>
 <div>
-  <a href="<a href="https://github.com/rqlalvs/github-stats-transparent"> 
-    
-  ![](https://raw.githubusercontent.com/rqlalvs/github-stats-transparent/output/generated/overview.svg)
-  ![](https://raw.githubusercontent.com/rqlalvs/github-stats-transparent/output/generated/languages.svg)
-    
-   </a>
 
 ### Onde me encontrar: :mailbox_with_mail: :earth_americas:
 
